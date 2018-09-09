@@ -84,7 +84,7 @@ const sum = (v, prev = 0) => {
 
 ## link
 
-[links]()
+[OneTab shared tabs.html](https://www.one-tab.com/page/c9h92FdTQzOStW835Jlo1A)
 
 ## 과제
 
